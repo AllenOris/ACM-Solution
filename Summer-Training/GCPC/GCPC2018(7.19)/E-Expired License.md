@@ -1,5 +1,3 @@
- <script type="text/javascript" src="http://common.cnblogs.com/script/ASCIIMathML.js"></script> 
-
 # E-Expired License 
 
 题目链接：[https://nanti.jisuanke.com/t/28856](https://nanti.jisuanke.com/t/28856)
@@ -44,7 +42,7 @@ impossible
 
 ## 题意
 
-给两个浮点数a,b，判断能找到两个质数p.q，满足$\$$frac{a}{b}=frac{p}{q}$\$$
+给两个浮点数a,b，判断能找到两个质数p.q，满足a/b=p/q
 
 ## 解析
 
