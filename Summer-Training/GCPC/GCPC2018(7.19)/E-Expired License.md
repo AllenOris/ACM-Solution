@@ -2,7 +2,7 @@
 
 >题目链接：[https://nanti.jisuanke.com/t/28856](https://nanti.jisuanke.com/t/28856)
 >
->题解作者: DeAllen
+>题解作者: [DeAllen](https://github.com/AllenTaken)
 >
 
 ## 题目原文
